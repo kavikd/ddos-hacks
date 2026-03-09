@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=BlackWall%20Security%20Suite&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=ddos-hacks%20Security%20Suite&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 # 🚀 Project Overview
 
-**BlackWall Security Suite** is a full-stack cybersecurity project designed for:
+**ddos-hacks Security Suite** is a full-stack cybersecurity project designed for:
 
 - 🛡️ Network traffic visibility  
 - 🔍 Host & service analysis  
@@ -84,7 +84,7 @@ Built for:
 
 ## 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/kdkavi/ddos-hacks/blackwall.git
+git clone https://github.com/kavikd/ddos-hacks.git
 ```
 ```
 cd ddos-hacks
